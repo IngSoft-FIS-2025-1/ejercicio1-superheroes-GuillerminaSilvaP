@@ -11,4 +11,4 @@ JARVIS
 Spider-Man
 Winter Soldier
 Starlord
-Gamoragit
+Gamora
